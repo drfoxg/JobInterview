@@ -5,16 +5,40 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionLoop", "RecursionLoop\RecursionLoop.csproj", "{658D9CA5-2760-4238-9A2D-5EE02425FE50}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findstr", "findstr\findstr\findstr.vcxproj", "{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Debug|x64.Build.0 = Debug|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Debug|x86.Build.0 = Debug|Any CPU
 		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Release|x64.ActiveCfg = Release|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Release|x64.Build.0 = Release|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Release|x86.ActiveCfg = Release|Any CPU
+		{658D9CA5-2760-4238-9A2D-5EE02425FE50}.Release|x86.Build.0 = Release|Any CPU
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Debug|x64.ActiveCfg = Debug|x64
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Debug|x64.Build.0 = Debug|x64
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Debug|x86.Build.0 = Debug|Win32
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Release|x64.ActiveCfg = Release|x64
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Release|x64.Build.0 = Release|x64
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Release|x86.ActiveCfg = Release|Win32
+		{BBD8BC96-88EB-4A0B-B0B8-52D7D164DF23}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
