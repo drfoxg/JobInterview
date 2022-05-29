@@ -38,5 +38,10 @@ Tasks at the job interview
 
 **JobInterview/simpletreemodel/**
 
+## Провести рефакторинг PHP и JS, написать SQL-запрос
+
+Подробнее в отдельном README.md  
+**JobInterview/WebRefactoring/**  
+
 
 
