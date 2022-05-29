@@ -41,6 +41,7 @@ Tasks at the job interview
 ## Провести рефакторинг PHP и JS, написать SQL-запрос
 
 Подробнее в отдельном README.md  
+
 **JobInterview/WebRefactoring/**  
 
 
